@@ -1,0 +1,1 @@
+This is a working free charade like game for android. You can copy and paste lists which the program will parce or build the lists from scratch to play through. There is settings that you can can add to make the games more or less challening.
